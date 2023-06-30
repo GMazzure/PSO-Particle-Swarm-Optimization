@@ -22,8 +22,6 @@
 
 ## Usage
 
-  > Run the algorithm within the app folder.
-
   Example running on Djibouti dataset with 100 ants
   ```
     python3 main.py
