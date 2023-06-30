@@ -22,7 +22,6 @@
 
 ## Usage
 
-  Example running on Djibouti dataset with 100 ants
   ```
     python3 main.py
   ```
